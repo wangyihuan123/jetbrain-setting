@@ -1,0 +1,224 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="cpuaff" values="ECMAScript 5.1" collectionTime="1529888709652" />
+      <project id="test4cameragun" values="ECMAScript 5.1" collectionTime="1529888709663" />
+      <project id="dmtx_cpp" values="ECMAScript 5.1" collectionTime="1528078328486" />
+      <project id="ncappzoo-v2" values="ECMAScript 5.1" collectionTime="1529888709741" />
+      <project id="ncsdk" values="ECMAScript 5.1" collectionTime="1522017647392" />
+      <project id="ncappzoo" values="ECMAScript 5.1" collectionTime="1529895616599" />
+      <project id="OpenCV" values="ECMAScript 5.1" collectionTime="1529012470359" />
+      <project id="ncsdk2" values="ECMAScript 5.1" collectionTime="1529888709748" />
+      <project id="test_openmp" values="ECMAScript 5.1" collectionTime="1529888709665" />
+      <project id="YoloV2NCS" values="ECMAScript 5.1" collectionTime="1522017647402" />
+      <project id="StereoVision" values="ECMAScript 5.1" collectionTime="1527385644698" />
+      <project id="c3_camera_gun_depth" values="ECMAScript 5.1" collectionTime="1529888709661" />
+      <project id="CameraGun" values="ECMAScript 5.1" collectionTime="1529888709732" />
+      <project id="libdmtx" values="ECMAScript 5.1" collectionTime="1529629509359" />
+      <project id="librealsense2" values="ECMAScript 5.1" collectionTime="1529888709697" />
+      <project id="basler_stereo" values="ECMAScript 5.1" collectionTime="1529888709656" />
+    </group>
+    <group name="module type">
+      <project id="cpuaff" values="CPP_MODULE" collectionTime="1529888709644" />
+      <project id="test4cameragun" values="CPP_MODULE" collectionTime="1529888709662" />
+      <project id="dmtx_cpp" values="CPP_MODULE" collectionTime="1528078328485" />
+      <project id="ncappzoo-v2" values="PYTHON_MODULE" collectionTime="1529888709732" />
+      <project id="ncsdk" values="CPP_MODULE" collectionTime="1522017647388" />
+      <project id="ncappzoo" values="PYTHON_MODULE" collectionTime="1529895616581" />
+      <project id="OpenCV" values="CPP_MODULE" collectionTime="1529012470325" />
+      <project id="ncsdk2" values="CPP_MODULE" collectionTime="1529888709742" />
+      <project id="test_openmp" values="CPP_MODULE" collectionTime="1529888709663" />
+      <project id="YoloV2NCS" values="PYTHON_MODULE" collectionTime="1522017647394" />
+      <project id="StereoVision" values="CPP_MODULE" collectionTime="1527385644674" />
+      <project id="c3_camera_gun_depth" values="CPP_MODULE" collectionTime="1529888709660" />
+      <project id="CameraGun" values="CPP_MODULE" collectionTime="1529888709710" />
+      <project id="libdmtx" values="CPP_MODULE" collectionTime="1529629509357" />
+      <project id="librealsense2" values="CPP_MODULE" collectionTime="1529888709665" />
+      <project id="basler_stereo" values="CPP_MODULE" collectionTime="1529888709653" />
+    </group>
+    <group name="vcs">
+      <project id="c3_camera_gun_depth" values="Git" collectionTime="1529888709660" />
+      <project id="ncappzoo-v2" values="Git" collectionTime="1529888709732" />
+      <project id="ncsdk" values="Git" collectionTime="1522017647387" />
+      <project id="ncappzoo" values="Git" collectionTime="1529895616580" />
+      <project id="OpenCV" values="Git" collectionTime="1529012470324" />
+      <project id="ncsdk2" values="Git" collectionTime="1529888709741" />
+      <project id="cpuaff" values="Git" collectionTime="1529888709643" />
+      <project id="YoloV2NCS" values="Git" collectionTime="1522017647393" />
+      <project id="StereoVision" values="Git" collectionTime="1527385644673" />
+      <project id="basler_stereo" values="Git" collectionTime="1529888709653" />
+      <project id="CameraGun" values="Git" collectionTime="1529888709710" />
+      <project id="libdmtx" values="Git" collectionTime="1529629509357" />
+      <project id="librealsense2" values="Git" collectionTime="1529888709665" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="CameraGun" values="data.git.root.count.1,data.branches.count.1+,data.commit.count.1+,data.users.count.1+" collectionTime="1529888709732" />
+      <project id="OpenCV" values="data.commit.count.10K+,data.users.count.1K+,data.git.root.count.1,data.branches.count.1+" collectionTime="1529012470358" />
+      <project id="ncappzoo-v2" values="data.branches.count.1+,data.commit.count.100+,data.git.root.count.1,data.users.count.10+" collectionTime="1529888709740" />
+      <project id="ncsdk2" values="data.branches.count.1+,data.users.count.10+,data.commit.count.1+,data.git.root.count.1" collectionTime="1529888709747" />
+      <project id="StereoVision" values="data.commit.count.1+,data.branches.count.1+,data.git.root.count.1,data.users.count.1+" collectionTime="1527385644697" />
+      <project id="librealsense2" values="data.branches.count.1+,data.commit.count.1K+,data.git.root.count.1,data.users.count.100+" collectionTime="1529888709697" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="basler_stereo" values="CMakeRunConfiguration" collectionTime="1529888709654" />
+      <project id="test_openmp" values="CMakeRunConfiguration" collectionTime="1529888709664" />
+      <project id="test4cameragun" values="CMakeRunConfiguration" collectionTime="1529888709662" />
+      <project id="CameraGun" values="CMakeRunConfiguration" collectionTime="1529888709710" />
+      <project id="c3_camera_gun_depth" values="CMakeRunConfiguration" collectionTime="1529888709660" />
+      <project id="OpenCV" values="CMakeRunConfiguration" collectionTime="1529012470325" />
+      <project id="StereoVision" values="CMakeRunConfiguration" collectionTime="1527385644674" />
+      <project id="librealsense2" values="CMakeRunConfiguration" collectionTime="1529888709666" />
+    </group>
+    <group name="file-type">
+      <project id="cpuaff" values="SCSS,Bash,JavaScript,Markdown,PLAIN_TEXT,UNKNOWN,ObjectiveC,HTML,Images,CSS,YAML" collectionTime="1529888709652" />
+      <project id="test4cameragun" values="CMakeLists.txt,ObjectiveC" collectionTime="1529888709663" />
+      <project id="dmtx_cpp" values="ObjectiveC,PLAIN_TEXT,UNKNOWN" collectionTime="1528078328486" />
+      <project id="ncappzoo-v2" values="Bash,PATCH,UNKNOWN,Images,ObjectiveC,Markdown,PLAIN_TEXT,Python" collectionTime="1529888709739" />
+      <project id="ncsdk" values="Markdown,SCSS,Images,HTML,Python,UNKNOWN,PLAIN_TEXT,YAML,CMakeLists.txt,ObjectiveC" collectionTime="1522017647391" />
+      <project id="ncappzoo" values="Bash,HTML,PLAIN_TEXT,ObjectiveC,Images,UNKNOWN,Markdown,Python,SVG,PATCH" collectionTime="1529895616597" />
+      <project id="OpenCV" values="Images,ARCHIVE,Native,Bash,CSS,SVG,PATCH,Assembly file,Python,ObjectiveC,XML,JavaScript,UNKNOWN,IDEA_MODULE,Markdown,CMakeLists.txt,YAML,PLAIN_TEXT,HTML,CMakeCache.txt,JSON" collectionTime="1529012470326" />
+      <project id="ncsdk2" values="SVG,HTML,UNKNOWN,ObjectiveC,PLAIN_TEXT,Markdown,Bash,Python,XML,Images,JavaScript,JSON,CSS" collectionTime="1529888709747" />
+      <project id="test_openmp" values="UNKNOWN,CMakeLists.txt,ObjectiveC" collectionTime="1529888709665" />
+      <project id="YoloV2NCS" values="Markdown,Python,ObjectiveC,UNKNOWN,Images,PLAIN_TEXT" collectionTime="1522017647401" />
+      <project id="StereoVision" values="ObjectiveC,UNKNOWN,Images,PLAIN_TEXT,JSON,CMakeLists.txt" collectionTime="1527385644697" />
+      <project id="c3_camera_gun_depth" values="CMakeLists.txt,PLAIN_TEXT,Python,ObjectiveC,UNKNOWN,CMakeCache.txt" collectionTime="1529888709661" />
+      <project id="CameraGun" values="UNKNOWN,ObjectiveC,CMakeCache.txt,PLAIN_TEXT,CMakeLists.txt" collectionTime="1529888709731" />
+      <project id="libdmtx" values="PLAIN_TEXT,Images,Bash,ObjectiveC,UNKNOWN" collectionTime="1529629509358" />
+      <project id="librealsense2" values="DTD,JSON,SVG,XML,YAML,JavaScript,ObjectiveC,HTML,Images,Python,Bash,UNKNOWN,Assembly file,JSHint,HTTP Request,PLAIN_TEXT,Markdown,CMakeLists.txt,CSS,Native,CMakeCache.txt,PATCH" collectionTime="1529888709693" />
+      <project id="basler_stereo" values="CMakeLists.txt,Native,ObjectiveC,Markdown,Python,YAML,PLAIN_TEXT" collectionTime="1529888709655" />
+    </group>
+    <group name="Run Dashboard">
+      <project id="cpuaff" values="run.dashboard.disabled" collectionTime="1529888709652" />
+      <project id="test4cameragun" values="run.dashboard.disabled" collectionTime="1529888709663" />
+      <project id="dmtx_cpp" values="run.dashboard.disabled" collectionTime="1528078328486" />
+      <project id="ncappzoo-v2" values="run.dashboard.disabled" collectionTime="1529888709739" />
+      <project id="ncsdk" values="run.dashboard.disabled" collectionTime="1522017647391" />
+      <project id="ncappzoo" values="run.dashboard.disabled" collectionTime="1529895616597" />
+      <project id="OpenCV" values="run.dashboard.disabled" collectionTime="1529012470326" />
+      <project id="ncsdk2" values="run.dashboard.disabled" collectionTime="1529888709747" />
+      <project id="test_openmp" values="run.dashboard.disabled" collectionTime="1529888709665" />
+      <project id="YoloV2NCS" values="run.dashboard.disabled" collectionTime="1522017647401" />
+      <project id="StereoVision" values="run.dashboard.disabled" collectionTime="1527385644697" />
+      <project id="c3_camera_gun_depth" values="run.dashboard.disabled" collectionTime="1529888709661" />
+      <project id="CameraGun" values="run.dashboard.disabled" collectionTime="1529888709731" />
+      <project id="libdmtx" values="run.dashboard.disabled" collectionTime="1529629509358" />
+      <project id="librealsense2" values="run.dashboard.disabled" collectionTime="1529888709693" />
+      <project id="basler_stereo" values="run.dashboard.disabled" collectionTime="1529888709655" />
+    </group>
+    <group name="VCS Log Ui Settings">
+      <project id="CameraGun" values="ui.details.enabled,ui.highlighter.CURRENT_BRANCH.enabled,ui.textFilter.regex.disabled,ui.highlighter.MERGE_COMMITS.enabled,ui.sort.bek.disabled,ui.highlighter.MY_COMMITS.enabled,ui.labels.showTagNames.disabled,ui.sort.normal.enabled,ui.sort.linear.bek.disabled,ui.textFilter.matchCase.disabled,ui.long.edges.disabled,ui.labels.compact.enabled" collectionTime="1529888709732" />
+    </group>
+    <group name="py-interpreter">
+      <project id="ncappzoo-v2" values="Python 2.7.12+" collectionTime="1529888709741" />
+      <project id="ncappzoo" values="Python 2.7.12+" collectionTime="1529895616599" />
+      <project id="YoloV2NCS" values="Python 2.7.12+" collectionTime="1522017647402" />
+    </group>
+    <group name="deployment server">
+      <project id="ncappzoo-v2" values="SFTP" collectionTime="1529888709741" />
+      <project id="ncappzoo" values="SFTP" collectionTime="1529895616599" />
+      <project id="ncsdk2" values="SFTP" collectionTime="1529888709748" />
+      <project id="YoloV2NCS" values="SFTP" collectionTime="1522017647402" />
+    </group>
+    <group name="vcs-stats">
+      <project id="cpuaff" values="active.changelists.count.1,unversioned.files.count.50+,ignored.files.count.2,has.default.vcs.root.mapping.disabled,vcs.roots.count.1" collectionTime="1529888709644" />
+      <project id="test4cameragun" values="vcs.roots.count.0,ignored.files.count.0,unversioned.files.count.0,active.changelists.count.1,has.default.vcs.root.mapping.enabled" collectionTime="1529888709662" />
+      <project id="dmtx_cpp" values="ignored.files.count.0,vcs.roots.count.0,has.default.vcs.root.mapping.enabled,active.changelists.count.1,unversioned.files.count.0" collectionTime="1528078328485" />
+      <project id="ncappzoo-v2" values="vcs.roots.count.1,has.default.vcs.root.mapping.disabled,active.changelists.count.1,unversioned.files.count.0,ignored.files.count.1" collectionTime="1529888709732" />
+      <project id="ncsdk" values="has.default.vcs.root.mapping.disabled,unversioned.files.count.15+,vcs.roots.count.1,active.changelists.count.1,ignored.files.count.2" collectionTime="1522017647388" />
+      <project id="ncappzoo" values="has.default.vcs.root.mapping.disabled,unversioned.files.count.30+,vcs.roots.count.1,ignored.files.count.1,active.changelists.count.1" collectionTime="1529895616581" />
+      <project id="OpenCV" values="unversioned.files.count.10K+,has.default.vcs.root.mapping.disabled,vcs.roots.count.1,ignored.files.count.50+,active.changelists.count.1" collectionTime="1529012470325" />
+      <project id="ncsdk2" values="has.default.vcs.root.mapping.disabled,ignored.files.count.2,vcs.roots.count.1,active.changelists.count.1,unversioned.files.count.5+" collectionTime="1529888709742" />
+      <project id="test_openmp" values="active.changelists.count.1,unversioned.files.count.0,has.default.vcs.root.mapping.enabled,vcs.roots.count.0,ignored.files.count.0" collectionTime="1529888709663" />
+      <project id="YoloV2NCS" values="ignored.files.count.1,active.changelists.count.1,unversioned.files.count.10+,has.default.vcs.root.mapping.disabled,vcs.roots.count.1" collectionTime="1522017647394" />
+      <project id="StereoVision" values="active.changelists.count.1,ignored.files.count.30+,has.default.vcs.root.mapping.disabled,unversioned.files.count.50+,vcs.roots.count.1" collectionTime="1527385644673" />
+      <project id="c3_camera_gun_depth" values="active.changelists.count.1,vcs.roots.count.1,has.default.vcs.root.mapping.disabled,ignored.files.count.30+,unversioned.files.count.10+" collectionTime="1529888709660" />
+      <project id="CameraGun" values="has.default.vcs.root.mapping.disabled,vcs.roots.count.1,ignored.files.count.100+,active.changelists.count.2,unversioned.files.count.0" collectionTime="1529888709710" />
+      <project id="libdmtx" values="unversioned.files.count.50+,ignored.files.count.2,has.default.vcs.root.mapping.disabled,active.changelists.count.1,vcs.roots.count.1" collectionTime="1529629509357" />
+      <project id="librealsense2" values="ignored.files.count.50+,unversioned.files.count.100+,vcs.roots.count.1,has.default.vcs.root.mapping.disabled,active.changelists.count.1" collectionTime="1529888709665" />
+      <project id="basler_stereo" values="has.default.vcs.root.mapping.disabled,unversioned.files.count.5+,ignored.files.count.100+,active.changelists.count.1,vcs.roots.count.1" collectionTime="1529888709653" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="cpuaff" values="Project" collectionTime="1529888709652" />
+      <project id="test4cameragun" values="Project" collectionTime="1529888709663" />
+      <project id="dmtx_cpp" values="Project" collectionTime="1528078328486" />
+      <project id="ncappzoo-v2" values="Project" collectionTime="1529888709741" />
+      <project id="ncsdk" values="Project" collectionTime="1522017647392" />
+      <project id="ncappzoo" values="Project" collectionTime="1529895616599" />
+      <project id="OpenCV" values="Project" collectionTime="1529012470359" />
+      <project id="ncsdk2" values="Project" collectionTime="1529888709748" />
+      <project id="test_openmp" values="Project" collectionTime="1529888709665" />
+      <project id="YoloV2NCS" values="Project" collectionTime="1522017647402" />
+      <project id="StereoVision" values="Project" collectionTime="1527385644698" />
+      <project id="c3_camera_gun_depth" values="Project" collectionTime="1529888709661" />
+      <project id="CameraGun" values="Project" collectionTime="1529888709732" />
+      <project id="libdmtx" values="Project" collectionTime="1529629509359" />
+      <project id="librealsense2" values="Project" collectionTime="1529888709697" />
+      <project id="basler_stereo" values="Project" collectionTime="1529888709656" />
+    </group>
+    <group name="Git">
+      <project id="cpuaff" values="data.remote.servers.github.com.1,config.force.push.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,version.2.7.4-UNIX,data.remote.branches.count.2+,config.warn.about.detached.enabled,config.ssh.enabled,data.local.branches.count.1" collectionTime="1529888709652" />
+      <project id="test4cameragun" values="config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,version.0.0.0-NULL,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled" collectionTime="1529888709663" />
+      <project id="dmtx_cpp" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,version.0.0.0-NULL,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1528078328486" />
+      <project id="ncappzoo-v2" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.warn.about.detached.enabled,data.remote.servers.github.com.1,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,data.remote.branches.count.2+,config.warn.about.crlf.enabled,data.local.branches.count.1,version.2.7.4-UNIX,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.ssh.enabled" collectionTime="1529888709740" />
+      <project id="ncsdk" values="data.remote.branches.count.1,config.warn.about.crlf.enabled,data.local.branches.count.1,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,data.remote.servers.github.com.1,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.ssh.enabled,version.2.7.4-UNIX,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1522017647392" />
+      <project id="ncappzoo" values="config.save.policy.STASH,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,version.2.7.4-UNIX,config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,data.local.branches.count.1,data.remote.branches.count.1,data.remote.servers.github.com.1,config.repo.sync.NOT_DECIDED" collectionTime="1529895616598" />
+      <project id="OpenCV" values="data.remote.servers.github.com.1,data.remote.branches.count.2+,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,data.remotes.in.project.1,config.force.push.enabled,version.2.7.4-UNIX,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1529012470359" />
+      <project id="ncsdk2" values="config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.push.autoupdate.disabled,version.2.7.4-UNIX,data.remotes.in.project.1,data.remote.servers.github.com.1,config.warn.about.detached.enabled,config.save.policy.STASH,data.remote.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1529888709747" />
+      <project id="test_openmp" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,version.0.0.0-NULL" collectionTime="1529888709665" />
+      <project id="YoloV2NCS" values="config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,data.remote.servers.github.com.1,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,data.remote.branches.count.1,data.local.branches.count.1,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,version.2.7.4-UNIX,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1522017647402" />
+      <project id="StereoVision" values="config.push.update.all.roots.enabled,version.2.7.4-UNIX,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remote.servers.github.com.1,config.force.push.enabled,data.remote.branches.count.1,data.local.branches.count.1" collectionTime="1527385644698" />
+      <project id="c3_camera_gun_depth" values="config.cherry-pick.autocommit.disabled,data.remote.servers.github.com.1,config.warn.about.crlf.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.push.autoupdate.disabled,config.force.push.enabled,data.local.branches.count.1,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.detached.enabled,version.2.7.4-UNIX,data.remote.branches.count.2+" collectionTime="1529888709661" />
+      <project id="CameraGun" values="data.local.branches.count.2+,config.push.update.all.roots.enabled,version.2.7.4-UNIX,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,data.remote.servers.github.com.1,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,config.ssh.enabled" collectionTime="1529888709732" />
+      <project id="libdmtx" values="version.2.7.4-UNIX,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,data.local.branches.count.1,config.save.policy.STASH,config.ssh.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+" collectionTime="1529629509359" />
+      <project id="librealsense2" values="config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,data.remote.branches.count.5+,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.save.policy.STASH,data.local.branches.count.1,data.remote.servers.github.com.1,config.update.type.BRANCH_DEFAULT,version.2.7.4-UNIX,config.warn.about.detached.enabled,data.remotes.in.project.1" collectionTime="1529888709697" />
+      <project id="basler_stereo" values="config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,version.2.7.4-UNIX,data.local.branches.count.1,config.force.push.enabled,data.remote.servers.github.com.1,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,data.remote.branches.count.1" collectionTime="1529888709655" />
+    </group>
+    <group name="vcs-options">
+      <project id="cpuaff" values="commit.before.optimize.imports.disabled,commit.before.check.code.smell.enabled,commit.before.rearrange.disabled,offer.move.partially.committed.disabled,changelist.preselect.existing.disabled,commit.show.unversioned.enabled,show.changes.preview.disabled,commit.clear.initial.comment.disabled,commit.before.check.todo.enabled,perform.rollback.in.background.disabled,offer.move.failed.committed.do_nothing_silently,perform.edit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.reformat.project.disabled,commit.before.check.code.cleanup.disabled,include.text.into.shelf.enabled,check.conflicts.in.background.disabled,changelist.make.new.active.disabled,commit.before.check.non.empty.comment.disabled,perform.update.in.background.enabled,perform.commit.in.background.enabled,perform.add_remove.in.background.enabled,commit.use.right.margin.enabled,perform.checkout.in.background.enabled" collectionTime="1529888709643" />
+      <project id="test4cameragun" values="perform.commit.in.background.enabled,commit.use.right.margin.enabled,perform.add_remove.in.background.enabled,commit.before.check.todo.enabled,commit.before.optimize.imports.disabled,include.text.into.shelf.enabled,perform.edit.in.background.enabled,commit.clear.initial.comment.disabled,offer.move.partially.committed.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.reformat.project.disabled,perform.update.in.background.enabled,changelist.make.new.active.disabled,changelist.preselect.existing.disabled,commit.before.check.code.smell.enabled,perform.rollback.in.background.disabled,check.conflicts.in.background.disabled,offer.move.failed.committed.do_nothing_silently,perform.checkout.in.background.enabled,show.changes.preview.disabled,commit.before.check.code.cleanup.disabled,commit.before.check.non.empty.comment.disabled,commit.before.rearrange.disabled,commit.show.unversioned.enabled" collectionTime="1529888709662" />
+      <project id="dmtx_cpp" values="offer.move.failed.committed.do_nothing_silently,commit.before.rearrange.disabled,commit.before.check.code.smell.enabled,commit.before.check.todo.enabled,commit.show.unversioned.enabled,commit.use.right.margin.enabled,perform.commit.in.background.enabled,perform.edit.in.background.enabled,include.text.into.shelf.enabled,commit.clear.initial.comment.disabled,offer.remove.empty.changelist.show_confirmation,perform.add_remove.in.background.enabled,perform.checkout.in.background.enabled,commit.before.reformat.project.disabled,commit.before.optimize.imports.disabled,commit.before.check.non.empty.comment.disabled,check.conflicts.in.background.disabled,perform.update.in.background.enabled,changelist.preselect.existing.disabled,changelist.make.new.active.disabled,commit.before.check.code.cleanup.disabled,offer.move.partially.committed.disabled,show.changes.preview.disabled,perform.rollback.in.background.disabled" collectionTime="1528078328485" />
+      <project id="ncappzoo-v2" values="commit.before.reformat.project.disabled,commit.clear.initial.comment.disabled,include.text.into.shelf.enabled,commit.before.check.code.smell.enabled,commit.show.unversioned.enabled,commit.before.rearrange.disabled,changelist.preselect.existing.disabled,commit.use.right.margin.enabled,perform.edit.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.optimize.imports.disabled,offer.move.failed.committed.do_nothing_silently,perform.commit.in.background.enabled,perform.checkout.in.background.enabled,perform.rollback.in.background.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.todo.enabled,check.conflicts.in.background.disabled,changelist.make.new.active.disabled,offer.move.partially.committed.disabled,perform.update.in.background.enabled,perform.add_remove.in.background.enabled,show.changes.preview.disabled,commit.before.check.code.cleanup.disabled" collectionTime="1529888709732" />
+      <project id="ncsdk" values="perform.commit.in.background.enabled,commit.show.unversioned.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.reformat.project.disabled,perform.add_remove.in.background.enabled,commit.before.check.todo.enabled,perform.update.in.background.enabled,changelist.make.new.active.disabled,show.changes.preview.disabled,commit.before.check.code.cleanup.disabled,offer.move.partially.committed.disabled,perform.checkout.in.background.enabled,commit.clear.initial.comment.disabled,commit.use.right.margin.enabled,commit.before.check.non.empty.comment.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.rearrange.disabled,commit.before.optimize.imports.disabled,perform.edit.in.background.enabled,check.conflicts.in.background.disabled,perform.rollback.in.background.disabled,changelist.preselect.existing.disabled,commit.before.check.code.smell.enabled,include.text.into.shelf.enabled" collectionTime="1522017647388" />
+      <project id="ncappzoo" values="perform.commit.in.background.enabled,commit.before.check.code.smell.enabled,commit.before.optimize.imports.disabled,commit.clear.initial.comment.disabled,perform.edit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.show.unversioned.enabled,check.conflicts.in.background.disabled,perform.add_remove.in.background.enabled,commit.before.check.todo.enabled,perform.checkout.in.background.enabled,include.text.into.shelf.enabled,offer.move.partially.committed.disabled,changelist.preselect.existing.disabled,commit.before.check.non.empty.comment.disabled,commit.before.rearrange.disabled,perform.update.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.cleanup.disabled,commit.before.reformat.project.disabled,perform.rollback.in.background.disabled,commit.use.right.margin.enabled,changelist.make.new.active.disabled,show.changes.preview.disabled" collectionTime="1529895616581" />
+      <project id="OpenCV" values="perform.add_remove.in.background.enabled,commit.before.check.todo.enabled,commit.before.check.non.empty.comment.disabled,offer.move.failed.committed.do_nothing_silently,changelist.make.new.active.disabled,perform.rollback.in.background.disabled,commit.before.reformat.project.disabled,commit.before.check.code.cleanup.disabled,commit.before.optimize.imports.disabled,check.conflicts.in.background.disabled,commit.before.check.code.smell.enabled,perform.edit.in.background.enabled,show.changes.preview.disabled,changelist.preselect.existing.disabled,commit.use.right.margin.enabled,perform.update.in.background.enabled,commit.before.rearrange.disabled,offer.move.partially.committed.disabled,offer.remove.empty.changelist.show_confirmation,commit.show.unversioned.enabled,include.text.into.shelf.enabled,commit.clear.initial.comment.disabled,perform.commit.in.background.enabled,perform.checkout.in.background.enabled" collectionTime="1529012470324" />
+      <project id="ncsdk2" values="commit.before.check.code.smell.enabled,commit.before.check.non.empty.comment.disabled,commit.clear.initial.comment.disabled,commit.before.rearrange.disabled,commit.before.reformat.project.disabled,perform.edit.in.background.enabled,commit.before.check.todo.enabled,offer.move.partially.committed.disabled,offer.remove.empty.changelist.show_confirmation,perform.rollback.in.background.disabled,show.changes.preview.disabled,commit.use.right.margin.enabled,changelist.make.new.active.disabled,commit.before.check.code.cleanup.disabled,commit.before.optimize.imports.disabled,commit.show.unversioned.enabled,perform.commit.in.background.enabled,include.text.into.shelf.enabled,perform.add_remove.in.background.enabled,perform.checkout.in.background.enabled,check.conflicts.in.background.disabled,offer.move.failed.committed.do_nothing_silently,changelist.preselect.existing.disabled,perform.update.in.background.enabled" collectionTime="1529888709742" />
+      <project id="test_openmp" values="perform.add_remove.in.background.enabled,perform.rollback.in.background.disabled,commit.before.check.non.empty.comment.disabled,show.changes.preview.disabled,changelist.make.new.active.disabled,commit.show.unversioned.enabled,commit.use.right.margin.enabled,perform.checkout.in.background.enabled,commit.before.optimize.imports.disabled,check.conflicts.in.background.disabled,perform.edit.in.background.enabled,commit.before.reformat.project.disabled,offer.move.partially.committed.disabled,changelist.preselect.existing.disabled,commit.clear.initial.comment.disabled,include.text.into.shelf.enabled,perform.commit.in.background.enabled,commit.before.check.code.smell.enabled,commit.before.rearrange.disabled,commit.before.check.todo.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.code.cleanup.disabled,offer.move.failed.committed.do_nothing_silently,perform.update.in.background.enabled" collectionTime="1529888709663" />
+      <project id="YoloV2NCS" values="include.text.into.shelf.enabled,changelist.preselect.existing.disabled,commit.show.unversioned.enabled,perform.rollback.in.background.disabled,commit.before.check.non.empty.comment.disabled,perform.add_remove.in.background.enabled,check.conflicts.in.background.disabled,offer.remove.empty.changelist.show_confirmation,perform.update.in.background.enabled,commit.before.reformat.project.disabled,commit.before.check.code.cleanup.disabled,changelist.make.new.active.disabled,perform.edit.in.background.enabled,commit.before.rearrange.disabled,commit.before.check.code.smell.enabled,perform.commit.in.background.enabled,commit.clear.initial.comment.disabled,offer.move.partially.committed.disabled,perform.checkout.in.background.enabled,commit.before.check.todo.enabled,commit.use.right.margin.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.optimize.imports.disabled,show.changes.preview.disabled" collectionTime="1522017647393" />
+      <project id="StereoVision" values="commit.before.optimize.imports.disabled,changelist.preselect.existing.disabled,commit.show.unversioned.enabled,perform.update.in.background.enabled,perform.add_remove.in.background.enabled,perform.rollback.in.background.disabled,perform.edit.in.background.enabled,commit.use.right.margin.enabled,commit.before.check.todo.enabled,commit.before.rearrange.disabled,commit.before.check.code.cleanup.disabled,offer.move.partially.committed.disabled,perform.commit.in.background.enabled,commit.before.check.code.smell.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.non.empty.comment.disabled,commit.before.reformat.project.disabled,changelist.make.new.active.disabled,commit.clear.initial.comment.disabled,include.text.into.shelf.enabled,show.changes.preview.disabled,perform.checkout.in.background.enabled,check.conflicts.in.background.disabled,offer.move.failed.committed.do_nothing_silently" collectionTime="1527385644673" />
+      <project id="c3_camera_gun_depth" values="changelist.preselect.existing.disabled,include.text.into.shelf.enabled,offer.move.failed.committed.do_nothing_silently,offer.remove.empty.changelist.show_confirmation,perform.rollback.in.background.disabled,commit.before.check.code.smell.enabled,perform.update.in.background.enabled,changelist.make.new.active.disabled,show.changes.preview.disabled,commit.before.reformat.project.disabled,commit.use.right.margin.enabled,commit.before.check.todo.enabled,commit.show.unversioned.enabled,perform.commit.in.background.enabled,commit.before.check.code.cleanup.disabled,commit.clear.initial.comment.disabled,offer.move.partially.committed.disabled,perform.edit.in.background.enabled,perform.checkout.in.background.enabled,commit.before.optimize.imports.disabled,commit.before.check.non.empty.comment.disabled,perform.add_remove.in.background.enabled,commit.before.rearrange.disabled,check.conflicts.in.background.disabled" collectionTime="1529888709660" />
+      <project id="CameraGun" values="changelist.make.new.active.disabled,changelist.preselect.existing.disabled,perform.add_remove.in.background.enabled,commit.clear.initial.comment.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.non.empty.comment.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.rearrange.disabled,commit.before.check.todo.enabled,commit.use.right.margin.enabled,perform.checkout.in.background.enabled,commit.show.unversioned.enabled,check.conflicts.in.background.disabled,perform.commit.in.background.enabled,commit.before.reformat.project.disabled,include.text.into.shelf.enabled,perform.update.in.background.enabled,commit.before.optimize.imports.disabled,show.changes.preview.disabled,perform.rollback.in.background.disabled,perform.edit.in.background.enabled,commit.before.check.code.cleanup.disabled,commit.before.check.code.smell.enabled,offer.move.partially.committed.disabled" collectionTime="1529888709710" />
+      <project id="libdmtx" values="changelist.preselect.existing.disabled,include.text.into.shelf.enabled,commit.before.check.code.cleanup.disabled,offer.remove.empty.changelist.show_confirmation,perform.rollback.in.background.disabled,perform.edit.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.use.right.margin.enabled,perform.add_remove.in.background.enabled,check.conflicts.in.background.disabled,perform.commit.in.background.enabled,commit.before.rearrange.disabled,changelist.make.new.active.disabled,commit.before.check.code.smell.enabled,perform.checkout.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.reformat.project.disabled,commit.before.check.todo.enabled,commit.clear.initial.comment.disabled,commit.show.unversioned.enabled,perform.update.in.background.enabled,show.changes.preview.disabled,offer.move.partially.committed.disabled,commit.before.optimize.imports.disabled" collectionTime="1529629509357" />
+      <project id="librealsense2" values="offer.move.partially.committed.disabled,perform.commit.in.background.enabled,perform.edit.in.background.enabled,commit.before.check.code.cleanup.disabled,perform.update.in.background.enabled,perform.add_remove.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.rearrange.disabled,commit.show.unversioned.enabled,perform.rollback.in.background.disabled,commit.before.check.todo.enabled,offer.remove.empty.changelist.show_confirmation,commit.clear.initial.comment.disabled,commit.use.right.margin.enabled,offer.move.failed.committed.do_nothing_silently,perform.checkout.in.background.enabled,commit.before.optimize.imports.disabled,changelist.make.new.active.disabled,include.text.into.shelf.enabled,changelist.preselect.existing.disabled,check.conflicts.in.background.disabled,show.changes.preview.disabled,commit.before.check.code.smell.enabled,commit.before.reformat.project.disabled" collectionTime="1529888709665" />
+      <project id="basler_stereo" values="commit.before.check.code.cleanup.disabled,perform.checkout.in.background.enabled,commit.use.right.margin.enabled,perform.update.in.background.enabled,commit.show.unversioned.enabled,offer.move.partially.committed.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.optimize.imports.disabled,perform.edit.in.background.enabled,commit.before.rearrange.disabled,changelist.preselect.existing.disabled,perform.rollback.in.background.disabled,commit.before.check.code.smell.enabled,offer.move.failed.committed.do_nothing_silently,changelist.make.new.active.disabled,commit.before.check.todo.enabled,perform.add_remove.in.background.enabled,commit.before.check.non.empty.comment.disabled,show.changes.preview.disabled,include.text.into.shelf.enabled,commit.before.reformat.project.disabled,check.conflicts.in.background.disabled,perform.commit.in.background.enabled,commit.clear.initial.comment.disabled" collectionTime="1529888709653" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.C++ Executable" count="1" />
+      <entry feature="CreateFile.CreateFileAction" count="3" />
+      <entry feature="StripeButton[Version Control].shown" count="13" />
+      <entry feature="cidr.completion.qualified" count="43" />
+      <entry feature="cidr.completion.qualified.changeQualifyingToken.fromDot" count="6" />
+      <entry feature="cidr.newFile" count="14" />
+      <entry feature="cidr.newFile.source" count="7" />
+      <entry feature="diff.DirDiffTableModel" count="9" />
+      <entry feature="execute.CMakeRunConfiguration.Debug" count="45" />
+      <entry feature="execute.CMakeRunConfiguration.Run" count="19" />
+      <entry feature="execute.CMakeRunConfiguration.Valgrind" count="5" />
+      <entry feature="ide.help.ideaInterface.editor" count="1" />
+      <entry feature="ide.help.preferences.mouse.shortcut" count="1" />
+      <entry feature="ide.settings.Console" count="1" />
+      <entry feature="ide.settings.Deployment" count="4" />
+      <entry feature="ide.settings.Keymap" count="27" />
+      <entry feature="ide.settings.Options" count="1" />
+      <entry feature="ide.settings.Toolchains" count="1" />
+      <entry feature="ide.settings.Valgrind" count="1" />
+      <entry feature="ideaapp.started" count="18" />
+      <entry feature="new.cmake.project.C++ Executable" count="1" />
+      <entry feature="terminal.linux" count="1" />
+      <entry feature="welcome.screen.ImportCMakeProject" count="1" />
+      <entry feature="welcome.screen.OpenCPPProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+    </counts>
+  </component>
+</application>

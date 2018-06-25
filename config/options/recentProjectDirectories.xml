@@ -1,0 +1,307 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/test/ncappzoo" />
+        <option value="$USER_HOME$/tools/ncsdk2" />
+        <option value="$USER_HOME$/test/ncappzoo-v2" />
+        <option value="$USER_HOME$/code/C3Development/c3.camera.gun.cpp.test" />
+        <option value="$USER_HOME$/test/c3.camera.gun.cpp" />
+        <option value="$USER_HOME$/test/realsense/librealsense" />
+        <option value="$USER_HOME$/test/openmp/example-4.5" />
+        <option value="$USER_HOME$/CLionProjects/test4cameragun" />
+        <option value="$USER_HOME$/code/C3Development/c3.camera.gun.depth.native.poc" />
+        <option value="$USER_HOME$/code/C3Development/c3.camera.gun.cpp" />
+        <option value="$USER_HOME$/code/C3Development/basler_stereo" />
+        <option value="$USER_HOME$/tools/c3.setup.lib/libdmtx" />
+        <option value="$USER_HOME$/test/cpuaff" />
+        <option value="$USER_HOME$/tools/opencv" />
+        <option value="$USER_HOME$/test/c++/dmtx_cpp" />
+        <option value="$USER_HOME$/test/yidong/StereoVision" />
+        <option value="$USER_HOME$/tools/ncsdk" />
+        <option value="$USER_HOME$/test/ncsdk" />
+        <option value="$USER_HOME$/tools/libdmtx" />
+        <option value="$USER_HOME$/test/IPPE" />
+        <option value="$USER_HOME$/test/darknet_log_detector" />
+        <option value="$USER_HOME$/tools/caffe" />
+        <option value="$USER_HOME$/test/YoloV2NCS" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/test/cpuaff" />
+        <option value="$USER_HOME$/code/C3Development/basler_stereo" />
+        <option value="$USER_HOME$/code/C3Development/c3.camera.gun.cpp" />
+        <option value="$USER_HOME$/code/C3Development/c3.camera.gun.depth.native.poc" />
+        <option value="$USER_HOME$/CLionProjects/test4cameragun" />
+        <option value="$USER_HOME$/test/openmp/example-4.5" />
+        <option value="$USER_HOME$/test/realsense/librealsense" />
+        <option value="$USER_HOME$/test/c3.camera.gun.cpp" />
+        <option value="$USER_HOME$/code/C3Development/c3.camera.gun.cpp.test" />
+        <option value="$USER_HOME$/test/ncappzoo-v2" />
+        <option value="$USER_HOME$/tools/ncsdk2" />
+        <option value="$USER_HOME$/test/ncappzoo" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/test/ncappzoo" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/test4cameragun">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529967810639" />
+              <option name="buildTimestamp" value="1520268909486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/C3Development/basler_stereo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529967810639" />
+              <option name="buildTimestamp" value="1520268909486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/C3Development/c3.camera.gun.cpp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529967810639" />
+              <option name="buildTimestamp" value="1520268909486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/C3Development/c3.camera.gun.cpp.test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529967810639" />
+              <option name="buildTimestamp" value="1520268909486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/C3Development/c3.camera.gun.depth.native.poc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529967810639" />
+              <option name="buildTimestamp" value="1520268909486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/test/IPPE">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526615161443" />
+              <option name="buildTimestamp" value="1520268948323" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/test/YoloV2NCS">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522969266759" />
+              <option name="buildTimestamp" value="1520268914236" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/test/c++/dmtx_cpp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528145596206" />
+              <option name="buildTimestamp" value="1520268908378" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/test/c3.camera.gun.cpp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529967810639" />
+              <option name="buildTimestamp" value="1520268909486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/test/cpuaff">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529967810639" />
+              <option name="buildTimestamp" value="1520268909486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/test/darknet_log_detector">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526438998956" />
+              <option name="buildTimestamp" value="1520268929999" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/test/ncappzoo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529967810639" />
+              <option name="buildTimestamp" value="1520268909486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/test/ncappzoo-v2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529967810639" />
+              <option name="buildTimestamp" value="1520268909486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/test/ncsdk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526941776744" />
+              <option name="buildTimestamp" value="1520268948323" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/test/openmp/example-4.5">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529967810639" />
+              <option name="buildTimestamp" value="1520268909486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/test/realsense/librealsense">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529967810639" />
+              <option name="buildTimestamp" value="1520268909486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/test/yidong/StereoVision">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527646395155" />
+              <option name="buildTimestamp" value="1520268908378" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tools/c3.setup.lib/libdmtx">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529707624266" />
+              <option name="buildTimestamp" value="1520268909486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tools/caffe">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522969266966" />
+              <option name="buildTimestamp" value="1520268914236" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tools/libdmtx">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526941752906" />
+              <option name="buildTimestamp" value="1520268948323" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tools/ncsdk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527212857725" />
+              <option name="buildTimestamp" value="1520268924568" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tools/ncsdk2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529967810639" />
+              <option name="buildTimestamp" value="1520268909486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/tools/opencv">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-173.4674.29" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529029741733" />
+              <option name="buildTimestamp" value="1520268910316" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/CLionProjects" />
+  </component>
+</application>

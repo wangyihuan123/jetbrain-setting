@@ -1,0 +1,45 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="741" y="51" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="721" y="332" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="992" y="466" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="618" y="373" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2700" y="291" />
+    <location key="find.popup.1920.0.1920.1080" x="2751" y="24" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="2308" y="368" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.1920.0.1920.1080" x="2588" y="330" />
+    <location key="WebDeployment.AddServerDialog.v.1.0.0.1920.1080" x="772" y="417" />
+    <location key="#Deployment.0.0.1920.1080" x="592" y="194" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="666" y="330" />
+    <location key="find.popup.0.0.1920.1080" x="485" y="24" />
+    <location key="#Options.0.0.1920.1080" x="594" y="249" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="457" y="188" />
+    <location key="SettingsEditor.0.0.1920.1080" x="232" y="198" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="65" y="24" />
+    <location key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog.0.0.1920.1080" x="850" y="255" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1920.1080" x="646" y="321" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080" x="675" y="145" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1080" x="705" y="349" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1920.1080" x="727" y="371" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="719" y="228" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" x="530" y="257" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1920.1080" x="618" y="297" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="677" y="252" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="715" y="418" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="424" height="648" />
+    <size key="ImportCMakeProjectWizard.0.0.1920.1080" width="640" height="480" />
+    <size key="find.popup.1920.0.1920.1080" width="992" height="1056" />
+    <size key="#Deployment.0.0.1920.1080" width="800" height="697" />
+    <size key="find.popup.0.0.1920.1080" width="992" height="1025" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1809" height="232" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1809" height="232" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1809" height="232" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1809" height="232" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1809" height="232" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1809" height="232" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1809" height="232" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1809" height="232" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="1855" height="1056" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" width="552" height="437" />
+  </component>
+</application>
