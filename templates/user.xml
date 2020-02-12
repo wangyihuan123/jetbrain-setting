@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="date" value="$date$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
