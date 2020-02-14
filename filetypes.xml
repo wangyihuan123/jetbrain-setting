@@ -18,6 +18,7 @@
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="p" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="rviz" type="YAML" />
       <mapping ext="mat" type="Matlab" />
     </extensionMap>
   </component>
