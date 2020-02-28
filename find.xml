@@ -15,7 +15,5 @@
     <mask>*.pyw</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
-    <mask>*</mask>
-    <mask>*.launch</mask>
   </component>
 </application>
